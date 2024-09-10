@@ -1,0 +1,6 @@
+r = input("Enter a radius of a circle ")
+r = float(r)
+pi=(3.14159265)
+volume = (4/3*pi*r**3)
+print("Your volume is: ")
+print(volume)
